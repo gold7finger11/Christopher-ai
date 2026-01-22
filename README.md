@@ -1,2 +1,2 @@
-# Christopher-ai
-Christopher -ai chat app
+# christopher-ai
+christopher -ai chat app
